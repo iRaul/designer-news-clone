@@ -1,6 +1,9 @@
-# designer-news-clone [IN PROGRESS]
-
+# Designer News Clone
 > Designer News Clone built with Vue.js and Tailwind.css
+
+### :warning:
+### WORK IN PROGRESS 
+----
 
 ## Build Setup
 
