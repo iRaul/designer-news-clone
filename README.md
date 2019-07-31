@@ -1,8 +1,10 @@
 ### :warning:
-### WORK IN PROGRESS 
+### WORK IN PROGRESS
 
 # Designer News Clone
 > Designer News Clone built with Vue.js and Tailwind.css
+
+![Readme Image](./static/readme-image.png)
 
 ## Build Setup
 
