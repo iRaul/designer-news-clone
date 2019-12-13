@@ -4,7 +4,7 @@
 # Designer News Clone
 > Designer News Clone built with Vue.js and Tailwind.css
 
-![Readme Image](./static/readme-image.png)
+![Readme Image](https://i.imgur.com/rNXx73E.png)
 
 ## Build Setup
 
